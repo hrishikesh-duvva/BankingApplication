@@ -1,0 +1,14 @@
+E:\chubb-dotnet\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+E:\chubb-dotnet\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+E:\chubb-dotnet\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+E:\chubb-dotnet\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+E:\chubb-dotnet\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+E:\chubb-dotnet\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
